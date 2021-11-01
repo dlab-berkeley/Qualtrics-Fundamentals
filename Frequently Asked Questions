@@ -1,0 +1,57 @@
+Introduction to Qualtrics
+Introduction 
+Q: What can Qualtrics be used for?
+A: Qualtrics is a powerful, full-featured web-based platform for creating, sharing, and conducting online surveys. Berkeley provides access to all basic features of this software to all campus members.
+
+Q: How do I get started with Qualtrics?
+A: As a UC Berkeley affiliate, you have access through Berkeley.Qualtrics.com.  You should use your CalNet authentication.
+Basic Use
+Q: What are the basics of making questions in Qualtrics?
+A: In the “Builder” you can “+ Add a new Question.” 
+A2: Then you have a number of question options depending on if you are looking for multiple choice questions, text entry, or a matrix response, for example.  Within each type of question, you will find additional settings to fit the number, length or appearance of your questions.
+
+Q: Can I change the text appearance of my survey questions?
+A: Yes, while in the text box writing your question, you can select “Rich Content Editor…” This will allow you to modify the font, size and other settings of your text.
+
+Q: Is there a way to paste in a long list of options for a multiple choice question (for example, the list of states, cities or universities)?
+A: Yes, if you begin with your options listed on individual lines of a document (such as in Microsoft Word) and copy the entire list then paste them into the first option space within a multiple choice question, they will populate individual options. 
+
+Q: Can I personalize the experience of my survey so that individuals can move through specific question paths?
+A: Yes, this can be organized through using the “Survey Flow” section within Qualtrics.  
+A2: You can click to “+ Add a new element” and then use “Branch” to set which questions your participants will take based on the conditions you set up.
+
+Q: Can I add a minimum time requirement to my survey?
+A: Yes, you can do this by adding a question and selecting “Timing” in the drop down menu in “Question Type.”
+A: Within the “Timer Settings” drop down menu, you can set the specific time and options that will work best for your survey.
+
+Q: How do I export survey results to share?
+A: Select “Data & Analysis” along the top selection options. Then select the “Export & Import” button which will open a drop down menu where you can select “export.”
+
+Q: Can I develop visualizations in Qualtrics of my survey results?
+A: By selecting “Reports” you will be able to see some automatically developed visualizations for each type of question based on their format.  
+A2: You can “add filter” or “create custom page” to modify what is part of your report.  
+A3: Finally, you can select the “Share Results” button which will open a drop down menu that will allow you to select the format of your report.
+
+Q: Can I share this survey with a research partner?
+A: Yes, by selecting “Tools” and then “Collaborate” from the drop down menu, you will be able to add the email address of anyone you would like to share this survey backend with.
+
+Q: Once I have published my survey, will I need to do it again?
+A: Yes, if you make any changes to your survey, you will need to select the “Publish” button again to make those changes live.
+
+Q: How do I share the survey with participants?
+A: There are a number of options available in how you share the survey with your participants.  Be sure to follow any predetermined IRB guidelines.  
+A: Select “Distributions” from the top menu options.  You will then be able to to select from sharing via email, web, social media, phone or online panel.  Within these options, there are specific selections you can make.
+General Questions & Additional Resources
+Q: I am piping text but it is not appearing correctly.  What should I do?
+A: The first thing to check is to ensure that you are including a page break. If there is not a page break then the piping text feature will not link appropriately. 
+
+Q: How can I learn more or seek help with Qualtrics beyond the workshop?
+A: The UC Berkeley Qualtrics Users Guide provides assistance on a number of additional topics.
+A2: We highly recommend using Qualtrics.com Support pages to look up instructions and information about the variety of options with designing your survey.  They have both a broad and deep range of text instructions that are accompanied by screenshots and the option to connect directly for assistance by clicking on the “CONTACT SUPPORT” button.
+A3: You can set up a consultation appointment at the D-Lab to assist with specific troubleshooting issues through our consultation ticketing system.
+
+A:  What should I do if I need to collect sensitive or protected information above protection level P2?
+A: Please fill out the following account request form from Technology @ Berkeley.
+
+Q: Can I access a recording of the Introduction to Qualtrics workshop that I registered for?
+A: At this time we are not able to share access to the recordings of our workshop.  Check back with the D-Lab to learn more about this in the future. 
