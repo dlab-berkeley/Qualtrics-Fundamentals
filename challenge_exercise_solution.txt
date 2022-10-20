@@ -1,0 +1,76 @@
+Go to: https://berkeley.qualtrics.com
+
+* Once you have logged in with CalNet credentials, you should be redirected to the Qualtrics portal.
+* From here, click "Create New Project" button on your upper right.
+* A "Survey" button should be visible on the next page, under the heading "Projects from Scratch". Click on that. 
+* Then on the lower right, you will see a "get started" button. Click on that as well.
+
+* Go ahead and name your project: "D-lab Challenge Problem" and create a new project. 
+
+* Under question type, on the left of the window, use the pull down menu to select "text/graphic".
+* Create a "Text" question which welcomes participant to your survey. Write the following: “Welcome to my survey! Continue to begin.” 
+* If you click on the text you wrote, there is a "rich content editor" tab, click on that to adjust the font to "Arial 14 point" and select "bold".
+
+* Now click the three dots in the upper right of the window to select "preview" and see what the question would look like. 
+
+
+* Next click on where it says "Default Survey Block" and change the name to "Intro". 
+
+**** First Question ****
+
+* "Add block" under “Intro” and label it First Question.
+
+* The first question will measure your respondents’ positive and negative mood. There is a validated questionnaire called the Positive and Negative Affect Schedule which measures exactly that! 
+* The questionnaire is available here: https://ogg.osu.edu/media/documents/MB%20Stream/PANAS.pdf
+
+* Click on "+ Add New Question" and select "Matrix Table." 
+* On the left, you will see a dashboard with parameters to adjust your matrix table. Since PANAS uses a 5-point scale, toggle the "Scale Points" value up to 5. 
+* Under "Response Requirements", toggle into the "request response" option.
+* Under "Question Behavior", click on "Statement Randomization" and select "display Answers in random order."
+* Click to the "write question text" to  label your questions, also click on the answer feilds to edit.  
+
+**** Second Question ****
+
+* "Add block" under First Question and label it "Second Question."
+* The second question will ask your respondents to tell you about their daily routine under Shelter-in-Place. 
+* First we will add a "timer" to hold the participant at the survey question for 30 seconds. 
+
+* Click "+Add new Question" and select "Timing".
+* In the Edit Menu, toggle "Delay showing submit button" and type "30" into the numerical feild. 
+
+
+* On the same "Second Question" Block, create a "Text Entry" question.
+* Click "+Add new Question" in the new block and select the "text entry" option. 
+* Provide participants with a question prompt, hover over "Click to write the question text" and add something like: “Please think about your daily routine under Shelter-in-Place. Write 3-5 sentences describing your daily routine.”
+* In the "Edit Question" Bar to your left, find the "Text Type" menu and select and toggle "Essay Text Box"
+* Next go to "Response Requirements", toggle "Add Validation", select "Minimum Length" and type "100" into the numerical feild. This requires a response >= 100 characters. 
+
+**** Final Question ****
+
+* Go to the "Add Block" link between First and second question and add a new block, label this block "Demographics."
+* Add new "Multiple Choice" question including the demographics you are interested in (e.g., age/sex/gender/race/ethnicity/education).
+
+*** Wrapping up ****
+
+
+* To Randomize the order that the PANAS and writing task is presented to respondents (First and Second question blocks), click the "Survey Flow" Button on the far left on the screen. It looks like two rectangles attached with a line.
+* You should see your questions as rectangles connected like a flowchart, at the botton click "+Add a New Element Here" and select "Randomizer". 
+* On your survey blocks, Click "Move", then drag and drop the blocks you would like randomized to the participants. 
+* Click the "Apply" button in the lower right hand corner. 
+
+* Click "+Add New Element" at the end of your survey and select the "End of Survey" option. You may customize this from the Survey Flow window.  
+
+** Preview your survey and check for errors.**
+
+Congrats, you did it!! :) 
+
+
+
+
+
+
+
+
+
+
+
