@@ -10,6 +10,7 @@ Individual links to the workshop components include:
 - [Workshop Slides](https://docs.google.com/presentation/d/1OP93cZfaKRNApZYpSe1fEKzR6pP9JzVDbn-xUPt0rXE/edit?usp=sharing)
 - [Challenge Problem](https://docs.google.com/document/d/1yNXRKjVzqJP7iZUsn9xAaI4O6boBTGgL88BeE2t73YI/edit?usp=sharing)
 - [Quick Reference](https://docs.google.com/document/d/1qd63GEjvgBTGbE9WJzdPg0TgAkZ6HHX711557ym3n8o/edit?usp=sharing)
+- [UC Berkeley Qulatrics login] (https://berkeley.qualtrics.com/)
 # Workshop Goals
 
 Qualtrics is a powerful online tool available to Berkeley community members that
