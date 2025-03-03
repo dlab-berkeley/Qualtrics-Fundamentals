@@ -1,93 +1,33 @@
-# D-Lab [WorkshopName] Workshop
+# D-Lab Qualtrics Fundamental Workshop
 
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
-[![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
-This repository contains the materials for D-Lab [WorkshopName] workshop. 
+This repository contains the materials for D-Lab Qualtrics Fundamental workshop. 
 
 ### Prerequisites
-We recommend attending [D-LabWorkshop1](D-LabWorkshop1Link),
-[D-LabWorkshop2](D-LabWorkshop2Link), and
-[AdditionalWorkshopsAsNeeded](LinksToWorkshops) prior to this workshop.
+
+There are no prerequisites to taking this workshop.
 
 Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to figure out which of our workshops to take!
 
 ## Workshop Goals
 
-In this workshop, we provide [WorkshopGoal]. First, we’ll cover [Aim1]. Then,
-we’ll explore [Aim2]. 
+Qualtrics is a powerful online tool available to Berkeley community members that can be used for a range of data collection activities. Primarily, Qualtrics is designed to make web surveys easy to write, test, and implement, but the software can be used for data entry, training, quality control, evaluation, market research, pre/post-event feedback, and other uses with some creativity. 
 
-_Only if necessary:_ If you are not familiar with material in
-[D-LabWorkshop1](D-LabWorkshop1Link), [D-LabWorkshop2](D-LabWorkshop2Link), and
-[AdditionalWorkshopsAsNeeded](LinksToWorkshops), we recommend attending those
-workshops first.
+In this two-part workshop, we provide an introduction to using Qualtrics. In the first part, we'll cover how to use the platform and its features to create, distribute, and analyze surveys. In the second part, we'll discuss best practices for survey design.
 
 ## Learning Objectives
 
 After this workshop, you will be able to:
 
-- [LearningObjective1].
-- [LearningObjective2].
-- [LearningObjective3].
-
-This workshop does not cover the following:
-
-- [NotCovered1]. These are covered in [D-LabWorkshopName](URL).
-- [NotCovered2]. These are covered in [D-LabWorkshopName](URL).
-
+- Design and distribute your own surveys in Qualtrics.
+- Incorporate good survey design practices into your own surveys.
 
 ## Installation Instructions
 
-We will use [RStudio/Python] to go through the workshop materials, which requires installation of [Software]. Complete the following steps:
+We will use Qualtrics to go through the workshop materials. Qualtrics can be accessed using a UC Berkeley email address. To log into Qualtrics, use the following link: 
 
-1. This step(s) details software to download, with a link.
-2. Download these workshop materials:
-    * Click the green "Code" button in the top right of the repository information.
-    * Click "Download Zip".
-    * Extract this file to a folder on your computer where you can easily access it (we recommend Desktop).
-3. Optional: if you’re familiar with git, you can instead clone this repository by opening a terminal and entering [GitCloneCommand].
+1. UC Berkeley Qualtrics [login](https://berkeley.qualtrics.com/).
 
-## Is [Language] not Working on Your Computer?
-
-If you do not have [Language] installed and the materials loaded on your
-workshop by the time it starts, we *strongly* recommend using the UC Berkeley
-Datahub to run the materials for these lessons. You can access the DataHub by
-clicking the following button:
-
-[![DataHub](https://img.shields.io/badge/launch-datahub-blue)](DATAHUB_LINK_HERE)
-
-The DataHub downloads this repository, along with any necessary packages, and
-allows you to run the materials in an RStudio instance on UC Berkeley's servers.
-No installation is necessary from your end - you only need an internet browser
-and a CalNet ID to log in. By using the DataHub, you can save your work and come
-back to it at any time. When you want to return to your saved work, just go
-straight to the [D-Lab DataHub](https://dlab.datahub.berkeley.edu), sign in, and
-you click on the `[Workshop-Name]` folder.
-
-If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this button:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](BINDER_LINK_HERE)
-
-By using this button, however, you cannot save your work.
-
-
-## Run the Code
-
-Now that you have all the required software and materials, you need to run the code:
-
-Provide instructions on running the code, including how to load relevant software (RStudio, Jupyter Notebooks, etc.) and which file to open up. See other repositories for examples.
-
-Additionally, provide instructions on how to run code once it’s open (running Jupyter cells, RMarkdown cells, etc.).
-
-# Additional Resources
-
-Check out the following resources to learn more about [Workshop topics]:
-
-* [Resource1](LinkToResource1): _Explain Resource 1_
-* [Resource2](LinkToResource2): _Explain Resource 2_
-* [...]
-
+If you do not have a UC Berkeley email address, you can create a free account on Qualtrics. 
 
 # About the UC Berkeley D-Lab
 
@@ -95,19 +35,6 @@ D-Lab works with Berkeley faculty, research staff, and students to advance data-
 
 Visit the [D-Lab homepage](https://dlab.berkeley.edu/) to learn more about us. You can view our [calendar](https://dlab.berkeley.edu/events/calendar) for upcoming events, learn about how to utilize our [consulting](https://dlab.berkeley.edu/consulting) and [data](https://dlab.berkeley.edu/data) services, and check out upcoming [workshops](https://dlab.berkeley.edu/events/workshops).
 
-# Other D-Lab [Language] Workshops
-
-Here are other [Language] workshops offered by the D-Lab:
-
-## Basic Competency
-
-**Provide a list of workshops here.**
-
-## Intermediate/Advanced Competency
-
-**Provide a list of workshops here.**
-
 # Contributors
 
-**Provide a list of contributors here, with links to their webpages (D-Lab or
-private).**
+[Kamya Yadav](https://dlab.berkeley.edu/people/kamya-yadav), [Renee Starowicz](https://dlab.berkeley.edu/people/renee-starowicz)
