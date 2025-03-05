@@ -22,7 +22,7 @@ Across all these cases, it is important to know the various design features of t
 
 ## New Survey in Qualtrics
 
-You can log into Qualtrics using your Berkeley email address using this [link](https://berkeley.qualtrics.com/). Once you are logged in, you can create a new project using the blue button on the bottom left corner. You can then either create a survey from scratch or choose one of the templates in Qualtrics. Let's start by creating a survey from scratch.![](images/home%20page-01.png)
+You can log into Qualtrics using your Berkeley email address using this [link](https://berkeley.qualtrics.com/). Once you are logged in, you can create a new project using the blue button on the bottom left corner. You can then either create a survey from scratch or choose one of the templates in Qualtrics. Let's start by creating a survey from scratch.![](images/home%20page.png)
 
 ![](images/new%20project.png){width="1913"}![](images/get%20started.png){width="1913"}
 
@@ -33,7 +33,7 @@ Once you create a survey from scratch, you will see a screen that looks like the
 1.  The distribution and analysis tools: the survey tab will bring you to the page where you edit your survey. The distributions tab allows you to send your survey to respondents. The data and analysis tab allows you to download and analyze your data once you have distributed your survey. The results page provides a summary by question. We will not cover the workflows and reports tabs in this workshop.
 2.  The survey editing tools: the builder tab is where you create your survey, adding and editing questions. The survey flow tab controls how a respondent views the survey when taking it - here you can add screeners and randomizers of various types. Look and feel tab allows you to change the visual aesthetics of your survey. Under the survey options tab you can edit some basic features of your survey, such as how to deal with incomplete responses or adding validation features so the same respondent does not take your survey twice. The quotas tab allows you to set criteria for the number of respondents you want in your survey. For instance, if you want half your respondents to be women, you can choose that here. The translations tab allows you to translate your survey into other languages.
 
-![](images/main%20features-01.png)
+![](images/main%20features.png)
 
 ## Questions, Blocks, and Page Breaks
 
@@ -47,7 +47,7 @@ A 'Question Block' is one way of grouping a set of questions. Later in the works
 
 Once you start adding multiple questions, you will also be able to add page breaks between questions. You can modify the labels for question blocks and each questions by clicking on the boxes highlighted below.
 
-![](images/page%20break-01.png)
+![](images/page%20break.png)
 
 ## Designing a Survey
 
