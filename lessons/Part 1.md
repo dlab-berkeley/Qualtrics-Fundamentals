@@ -95,9 +95,9 @@ Once you have your data collected, Qualtrics lets you:
 
 ![](images/data.png)
 
-![](images/export.png){width="205"}
+![](images/export.png)
 
-![](images/export%202.png){width="250"}
+![](images/export%202.png)
 
 ### 🎬 Demo: Summary and Analysis
 
