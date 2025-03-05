@@ -109,7 +109,7 @@ In part two, we will focus on some best practices to incorporate when creating s
 
 -   Naming questions and blocks
 
--   Attention and manipulation checks
+-   Attention checks
 
 -   Screeners and validations
 
