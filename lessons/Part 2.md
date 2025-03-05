@@ -44,13 +44,13 @@ Randomizing the order in which respondents view questions and responses to quest
 
 There are two main ways to implement question or response order randomization in Qualtrics:
 
-1.  Randomize questions within a block or randomize block order (or both)![](images/q random-01.png)
+1.  Randomize questions within a block or randomize block order (or both)![](images/q random.png)
 
-    ![](images/block random-01.png)
+    ![](images/block random.png)
 
 2.  Randomize the order of responses
 
-![](images/response random-01.png)
+![](images/response random.png)
 
 💡 **Tip**: More on why [randomization](https://surveysparrow.com/blog/question-randomization/) works well in surveys.
 
@@ -94,7 +94,7 @@ Head over to Qualtrics and the survey we created together and add data validatio
 
 Another type of data quality check that you can add to your survey is timers. You can add [timers](https://www.qualtrics.com/support/survey-platform/survey-module/editing-questions/question-types-guide/advanced/timing/?parent=p001134) to specific questions and you could filter out responses that are finished faster than a specific time limit that you set. When you add timers to questions, Qualtrics records the data related to each respondent. You could use this data, for instance, to filter out respondents who answer the question quickly or use the time taken to respond to the question as a control variable in a regression analysis.
 
-![](images/timer2-01.png)
+![](images/timer2.png)
 
 Qualtrics flags respondents who finish surveys too quickly - they are called "speeders" and are respondents whose response time is "more than two standard deviations from the median duration it takes for your respondents to take the survey." Whether or not you should completely remove these speeders from your data requires careful consideration and reasoning. Some resources on how to deal with speeders in surveys are included below:
 
@@ -106,7 +106,7 @@ Qualtrics flags respondents who finish surveys too quickly - they are called "sp
 
 You can also prevent respondents from taking surveys multiple times. In Qualtrics, you can either prevent a respondent from taking the survey twice or you can flag their responses. To prevent them from taking the survey multiple times, you can use the [prevent multiple submissions](https://www.qualtrics.com/support/survey-platform/survey-module/survey-checker/fraud-detection/#PreventBallotBoxStuffing) option and choose either 'End survey with message' or 'Redirect to URL'. To flag their responses you can set this option to 'Flag responses' and you can enable [RelevantID](https://www.qualtrics.com/support/survey-platform/survey-module/survey-checker/fraud-detection/?utm_medium=product&utm_source=survey-builder#RelevantID). If you are sending your survey within an organization that uses the Single Sign On (SSO) feature, you can also enable authentication that makes a user log into their account to take the survey.
 
-![](images/prevent multiple-01.png)
+![](images/prevent multiple.png)
 
 ### Attention checks
 
@@ -128,7 +128,7 @@ Here are some things to consider as you decide whether or not to include open-en
 
 Qualtrics allows you to set the type of text response and the length of text response you want survey-takers to be limited to.
 
-![](images/Screenshot 2025-03-04 at 4.06.49 PM-01.png)
+![](images/open ended.png)
 
 ## Forced Response
 
