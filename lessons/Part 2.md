@@ -38,19 +38,19 @@ Today's workshop will focus on several best practices to incorporate when design
 
 There are many more best practices that one could incorporate into survey design - there are an entire semester's worth of courses that are taught on survey design. We will not cover all of these but we hope that this workshop will give you a baseline to start with and we will direct you to more resources for how to design good online surveys.
 
-## Randomization 
+## Randomization
 
 Randomizing the order in which respondents view questions and responses to questions is important when trying to mitigate order bias. Order bias refers to a systematic bias that can occur when questions (or responses) are presented to respondents in a particular order.
 
 There are two main ways to implement question or response order randomization in Qualtrics:
 
-1.  Randomize questions within a block or randomize block order (or both)![](images/q random.png)
+1.  Randomize questions within a block or randomize block order (or both)![](images/q random-01.png)
 
-    ![](images/block random.png)
+    ![](images/block random-01.png)
 
 2.  Randomize the order of responses
 
-![](images/response random.png)
+![](images/response random-01.png)
 
 💡 **Tip**: More on why [randomization](https://surveysparrow.com/blog/question-randomization/) works well in surveys.
 
@@ -68,11 +68,11 @@ Adding labels to questions and blocks can help with
 
 -   Easing skip/display/conditional logic in questions
 
-## Screeners and Validation 
+## Screeners and Validation
 
 Screeners and data validation are important to ensure that the quality of survey data we get back is of high quality. This can include getting the right types of responses, ensuring respondents can only take the survey once, removing bad quality data, etc. Below are some of the different types of screeners and validation we should consider in survey design.
 
-### Content validation 
+### Content validation
 
 Certain questions demand specific types of responses and we want to ensure respondents do not fill out other kinds of responses. For instance, if you want respondents to enter a number when you ask for their age, you can set up data validation that will only allow for numeric responses. You can also create limits for the numbers they enter: the likelihood that somebody over the age of 100 taking a survey is fairly low and you can set an upper bound on the number respondents can put.
 
@@ -90,11 +90,11 @@ On Qualtrics, you can add screeners via the 'Survey flow' tab by choosing to cre
 
 Head over to Qualtrics and the survey we created together and add data validation to your question on age as well as a screener to filter out respondents under the age of 18 and those who live in a state other than California.
 
-### Timers for survey and questions 
+### Timers for survey and questions
 
 Another type of data quality check that you can add to your survey is timers. You can add [timers](https://www.qualtrics.com/support/survey-platform/survey-module/editing-questions/question-types-guide/advanced/timing/?parent=p001134) to specific questions and you could filter out responses that are finished faster than a specific time limit that you set. When you add timers to questions, Qualtrics records the data related to each respondent. You could use this data, for instance, to filter out respondents who answer the question quickly or use the time taken to respond to the question as a control variable in a regression analysis.
 
-![](images/Screenshot 2025-03-04 at 3.12.44 PM.png)
+![](images/timer2-01.png)
 
 Qualtrics flags respondents who finish surveys too quickly - they are called "speeders" and are respondents whose response time is "more than two standard deviations from the median duration it takes for your respondents to take the survey." Whether or not you should completely remove these speeders from your data requires careful consideration and reasoning. Some resources on how to deal with speeders in surveys are included below:
 
@@ -106,9 +106,9 @@ Qualtrics flags respondents who finish surveys too quickly - they are called "sp
 
 You can also prevent respondents from taking surveys multiple times. In Qualtrics, you can either prevent a respondent from taking the survey twice or you can flag their responses. To prevent them from taking the survey multiple times, you can use the [prevent multiple submissions](https://www.qualtrics.com/support/survey-platform/survey-module/survey-checker/fraud-detection/#PreventBallotBoxStuffing) option and choose either 'End survey with message' or 'Redirect to URL'. To flag their responses you can set this option to 'Flag responses' and you can enable [RelevantID](https://www.qualtrics.com/support/survey-platform/survey-module/survey-checker/fraud-detection/?utm_medium=product&utm_source=survey-builder#RelevantID). If you are sending your survey within an organization that uses the Single Sign On (SSO) feature, you can also enable authentication that makes a user log into their account to take the survey.
 
-![](images/Screenshot 2025-03-04 at 3.14.02 PM.png)
+![](images/prevent multiple-01.png)
 
-### Attention checks 
+### Attention checks
 
 Attention checks are an important way to ensure good quality data is collected through surveys. As the name suggest, these checks assess whether respondents are paying attention during the survey and answering questions thoughtfully. There are several types of attention checks one can incorporate into a survey. One of the most common ones is asking survey-takers to respond to instructions. A potential attention check question could be: "To indicate that you are paying attention to this question, please select 'Strongly Agree' from the options below."
 
@@ -128,17 +128,17 @@ Here are some things to consider as you decide whether or not to include open-en
 
 Qualtrics allows you to set the type of text response and the length of text response you want survey-takers to be limited to.
 
-![](images/Screenshot 2025-03-04 at 4.06.49 PM.png)
+![](images/Screenshot 2025-03-04 at 4.06.49 PM-01.png)
 
-## Forced Response 
+## Forced Response
 
 Whether or not to mandate responses to questions before a respondent can proceed further in a survey is another contested topic. Requiring responses to questions can allow for more complete data to be collected but it can also increase dropout rates or decrease data quality (for instance, if respondents choose to answer inaccurately for sensitive topics). You can choose to make responses required in Qualtrics by adding 'Response requirements' and choosing either 'Force response' or 'Request response.'
 
-![](images/forced response.png)
+![](images/forced%20response.png)
 
 Adding options for 'Prefer not to answer' and being selective in the use of forced response can help mitigate some of these concerns.
 
-## Conclusion 
+## Conclusion
 
 These best practices for survey design only cover a handful of topics and considerations. Combined with an introduction to using Qualtrics, they should provide you with a foundation to start creating your own surveys on the platform. Many of these resources and tips transfer over to other survey platforms as well.
 
