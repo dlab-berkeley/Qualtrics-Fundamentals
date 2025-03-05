@@ -44,14 +44,13 @@ Randomizing the order in which respondents view questions and responses to quest
 
 There are two main ways to implement question or response order randomization in Qualtrics:
 
-1.  Randomize questions within a block or randomize block order (or both)
-   ![](images/q%20random.png)
+1.  Randomize questions within a block or randomize block order (or both) ![](images/q%20random.png)
 
-   ![](images/block%20random.png)
+![](images/block%20random.png)
 
 3.  Randomize the order of responses
 
-   ![](images/response%20random.png)
+![](images/response%20random.png)
 
 💡 **Tip**: More on why [randomization](https://surveysparrow.com/blog/question-randomization/) works well in surveys.
 
