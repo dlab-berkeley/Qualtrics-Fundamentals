@@ -44,13 +44,14 @@ Randomizing the order in which respondents view questions and responses to quest
 
 There are two main ways to implement question or response order randomization in Qualtrics:
 
-1.  Randomize questions within a block or randomize block order (or both)![](images/q random.png)
+1.  Randomize questions within a block or randomize block order (or both)
+   ![](images/q%20random.png)
 
-    ![](images/block random.png)
+   ![](images/block%20random.png)
 
-2.  Randomize the order of responses
+3.  Randomize the order of responses
 
-![](images/response random.png)
+   ![](images/response%20random.png)
 
 💡 **Tip**: More on why [randomization](https://surveysparrow.com/blog/question-randomization/) works well in surveys.
 
@@ -78,7 +79,7 @@ Certain questions demand specific types of responses and we want to ensure respo
 
 On Qualtrics, you can add a validation to a question by choosing the 'Add validation' option in the question editor and modifying the validation as per your requirement.
 
-![](images/validation.png){width="169"}
+![](images/validation.png)
 
 Using responses from certain questions, you can also set up screeners. For instance, if you want only adults from a certain geographic region to answer your survey, you can use responses to questions about age and state of residence to filter out specific responses.
 
@@ -106,7 +107,7 @@ Qualtrics flags respondents who finish surveys too quickly - they are called "sp
 
 You can also prevent respondents from taking surveys multiple times. In Qualtrics, you can either prevent a respondent from taking the survey twice or you can flag their responses. To prevent them from taking the survey multiple times, you can use the [prevent multiple submissions](https://www.qualtrics.com/support/survey-platform/survey-module/survey-checker/fraud-detection/#PreventBallotBoxStuffing) option and choose either 'End survey with message' or 'Redirect to URL'. To flag their responses you can set this option to 'Flag responses' and you can enable [RelevantID](https://www.qualtrics.com/support/survey-platform/survey-module/survey-checker/fraud-detection/?utm_medium=product&utm_source=survey-builder#RelevantID). If you are sending your survey within an organization that uses the Single Sign On (SSO) feature, you can also enable authentication that makes a user log into their account to take the survey.
 
-![](images/prevent multiple.png)
+![](images/prevent%20multiple.png)
 
 ### Attention checks
 
@@ -128,7 +129,7 @@ Here are some things to consider as you decide whether or not to include open-en
 
 Qualtrics allows you to set the type of text response and the length of text response you want survey-takers to be limited to.
 
-![](images/open ended.png)
+![](images/open%20ended.png)
 
 ## Forced Response
 
