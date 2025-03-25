@@ -63,11 +63,11 @@ We will now design our own survey in Qualtrics to demonstrate the different type
 
 We will go through the following types of questions during this workshop and the full list of question types that one can ask in Qualtrics can be found [here](https://www.qualtrics.com/support/survey-platform/survey-module/editing-questions/question-types-guide/question-types-overview/):
 
--   [**Text entry:**]{.underline} both words and numeric. We can add a validation that allows us to define the type of content the respondent can type into a text entry box. Below, I add a validation that lets respondents enter only numbers between 0-100 for their age.
+-   **Text entry:** both words and numeric. We can add a validation that allows us to define the type of content the respondent can type into a text entry box. Below, I add a validation that lets respondents enter only numbers between 0-100 for their age.
 
 ![](images/numeric%20text.png)
 
--   [**Multiple choice questions (one answer and multiple answers):**]{.underline} we will create our own multiple choice questions and import existing questions from the question library in Qualtrics. Below is an example of a question we will add by clicking on 'Import from library' which will open a question library. This library has pre-existing questions that are commonly used in surveys.
+-   **Multiple choice questions (one answer and multiple answers):** we will create our own multiple choice questions and import existing questions from the question library in Qualtrics. Below is an example of a question we will add by clicking on 'Import from library' which will open a question library. This library has pre-existing questions that are commonly used in surveys.
 
     ![](images/imported%20question.png)
 
@@ -79,17 +79,15 @@ We will go through the following types of questions during this workshop and the
 
     ![](images/comparing%20questions.png)
 
--   [**Slider:**]{.underline} you can add slider scales with or without discrete points (called 'Increments' in Qualtrics).
+-   **Slider:** you can add slider scales with or without discrete points (called 'Increments' in Qualtrics).
 
--   [**Matrix table:**]{.underline} you can add Likert scales using matrix tables.
+-   **Matrix table:** you can add Likert scales using matrix tables.
 
     -   While matrix tables can be efficient in asking multiple Likert scale questions, they may also lead to respondent fatigue and affect the quality of responses. See this blog [post](https://www.responsly.com/blog/matrix-questions/) for the advantages and pitfalls of matrix tables.
 
     💡 **Tip**: There are debates about which question type is better to use between sliding scales or Likert scales (see this [blog](https://www.checkmarket.com/blog/likert-scales-slider-scales/)). In cases where preferences may be more fluid (such as how much one likes a particular political party), slider scales might be more useful. In other cases where preferences may be more ranked and distinct (such as asking people the degree to which they agree or disagree with a statement), Likert scales may be more useful. See also Qualtrics' [guide](https://www.qualtrics.com/blog/three-tips-for-effectively-using-scale-point-questions/) on scale questions.
 
-<!-- -->
-
--   [**Rank order:**]{.underline} these questions are particularly [helpful](https://www.qualtrics.com/blog/the-dos-and-donts-of-ranking-questions/) when you want to understand respondent preferences relative to each option presented and mirror respondent preferences to their real world choices more closely.
+-  **Rank order:** these questions are particularly [helpful](https://www.qualtrics.com/blog/the-dos-and-donts-of-ranking-questions/) when you want to understand respondent preferences relative to each option presented and mirror respondent preferences to their real world choices more closely.
 
 Along with these questions, we will also learn how to import questions from an [existing library](https://www.qualtrics.com/support/survey-platform/survey-module/editing-questions/question-types-guide/pre-made-qualtrics-library-questions/?parent=p0032) of questions and how to add skip/display logic to questions. [Display logic](https://www.qualtrics.com/support/survey-platform/survey-module/question-options/display-logic/) allows us to customize the questions a respondent sees based on their responses to specific questions. [Skip logic](https://www.qualtrics.com/support/survey-platform/survey-module/question-options/skip-logic/?parent=p0073) allows us to skip certain questions for respondents based on their responses to specific questions.
 
