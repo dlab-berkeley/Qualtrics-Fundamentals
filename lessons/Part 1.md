@@ -30,7 +30,9 @@ Across all these cases, it is important to know the various design features of t
 
 You can log into Qualtrics using your Berkeley email address using this [link](https://berkeley.qualtrics.com/). Once you are logged in, you can create a new project using the blue button on the bottom left corner. You can then either create a survey from scratch or choose one of the templates in Qualtrics. Let's start by creating a survey from scratch.![](images/home%20page.png)
 
-![](images/new%20project.png){width="1913"}![](images/get%20started.png){width="1913"}
+![](images/new%20project.png)
+
+![](images/get%20started.png)
 
 ## Platform Design
 
@@ -63,19 +65,19 @@ We will go through the following types of questions during this workshop and the
 
 -   [**Text entry:**]{.underline} both words and numeric. We can add a validation that allows us to define the type of content the respondent can type into a text entry box. Below, I add a validation that lets respondents enter only numbers between 0-100 for their age.
 
-![](images/numeric text.png)
+![](images/numeric%20text.png)
 
 -   [**Multiple choice questions (one answer and multiple answers):**]{.underline} we will create our own multiple choice questions and import existing questions from the question library in Qualtrics. Below is an example of a question we will add by clicking on 'Import from library' which will open a question library. This library has pre-existing questions that are commonly used in surveys.
 
-    ![](images/imported question.png)
+    ![](images/imported%20question.png)
 
-    ![](images/import question.png){width="170"}
+    ![](images/import%20question.png)
 
     We can also see comparisons between questions we may write ourselves and the questions that are pre-built into Qualtrics' library.
 
     🔔 **Question**: What are some of the differences between the two questions included below? How might they impact the responses we get?
 
-    ![](images/comparing questions.png)
+    ![](images/comparing%20questions.png)
 
 -   [**Slider:**]{.underline} you can add slider scales with or without discrete points (called 'Increments' in Qualtrics).
 
