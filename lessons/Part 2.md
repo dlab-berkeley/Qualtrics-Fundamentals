@@ -4,7 +4,7 @@
 
 Welcome to Part 2 of Qualtrics Fundamentals. This two-part workshop is designed to demonstrate the key features of a survey platform and the best practices for online survey research. Our primary goal for today is to learn some of the best practices of survey design.
 
-Throughout this workshop series, we will use the following icons:
+Throughout today's workshop, we will use the following icons:
 
 🔔 **Question**: A quick question to help you understand what's going on.
 
