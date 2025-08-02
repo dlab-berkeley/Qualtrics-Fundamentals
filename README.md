@@ -2,7 +2,7 @@
 
 This repository contains the materials for D-Lab's Qualtrics Fundamental workshop. 
 
-### Prerequisites
+## Prerequisites
 
 There are no prerequisites to taking this workshop.
 
